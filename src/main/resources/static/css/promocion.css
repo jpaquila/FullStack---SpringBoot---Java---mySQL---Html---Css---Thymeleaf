@@ -1,0 +1,127 @@
+*{
+    padding:0;
+    margin: auto;
+    /*border:solid 1px black;*/
+  
+}
+
+body{
+    background-color: rgba(0, 50, 73, 0.705);
+    font-family: Serif; 
+}
+
+#contenedorTotal{
+    width: 1000px;
+    height: 2200px;
+    background-color: rgba(0, 50, 73, 0.705);
+}
+
+header{
+    
+    float: right;
+    width: 60%;
+    height: 11%;
+    background-color: rgba(134, 221, 255, 0.678);
+    margin-right: 50px;
+}
+nav {
+    width: 25%;
+    float: left;
+    height: 500px;
+    width: 250px;
+    margin-left: 90px;
+    background-color: rgb(0, 0, 0);
+    
+}
+#nosotros{
+    
+    float: right;
+    width: 58%;
+    height: 22%;
+    background-color: rgba(134, 221, 255, 0.678);
+    margin-right: 50px;
+    padding:0 10px;
+}
+#proyectosRecientes{
+    float: right;
+    width: 58%;
+    height: 22%;
+    background-color: rgba(134, 221, 255, 0.678);
+    margin-right: 50px;
+    padding:0 10px;
+}
+#nuestrosServicios{
+    float: right;
+    width: 58%;
+    height: 22%;
+    background-color: rgba(134, 221, 255, 0.678);
+    margin-right: 50px;
+    padding:0 10px;
+}
+#envianosTuConsulta{
+    float: right;
+    width: 58%;
+    height: 22%;
+    background-color: rgba(134, 221, 255, 0.678);
+    margin-right: 50px;
+    padding:0 10px;
+}
+
+header img{
+    border: solid 1px black;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+nav ul li {
+    list-style: none;
+    line-height: 34px;
+    padding-left: 8px;
+    font-size: 18px;
+    }
+nav ul li a:link{
+    text-decoration: none;
+    color: white;
+}
+nav ul li a:visited{
+    text-decoration: none;
+    color: whitesmoke;
+}
+h2{color: rgba(0, 50, 73, 0.705)}
+h1{color: white}
+p{color: white;line-height: 25px;}
+h4{color: rgba(0, 50, 73, 0.705)}
+
+
+form{background-color: rgba(0, 50, 73, 0.705)}
+input{width: 90%; padding: 10px 20px; background-color:rgba(0, 50, 73, 0.705) ;}
+textarea{
+    resize: none; background-color: rgba(0, 50, 73, 0.705);width: 97%;
+}
+#envianosTuConsulta form button{float:right; margin-right: 2px; background-color: rgba(0, 50, 73, 0.705);
+padding: 10px 30px; font-size: 18px; color: white;}
+
+#arribaizq{
+display: inline-block;
+width: 250px;
+height: 100px;
+}
+#arribader{
+    display: inline-block;
+    width: 250px;
+    height: 100px;
+}
+#abajoizq{
+    display: inline-block;
+    width: 250px;
+    height: 100px;
+}
+#abajoder{
+    display: inline-block;
+    width: 250px;
+    height: 100px;
+}
+.cuadro p{
+    margin-left: 80px;
+    line-height: normal;
+}

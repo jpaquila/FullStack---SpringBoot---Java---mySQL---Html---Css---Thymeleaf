@@ -1,0 +1,132 @@
+
+* {
+
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: font-family: lucida sanz;
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-color: black;
+}
+
+#divSuperior{
+    background-color: #FF5733;
+    color: #FF5733;
+    height: 20px;
+    width: 100%;
+}
+
+ul{
+    font-size: 18px;
+    font-weight: bold;
+    margin-left:45%;
+    transform: translatex(-45%);
+}
+
+header{
+    height: 800px; 
+    width: 100%;  
+    background-image: url(../img/header2.jpg);
+    max-height: 600px;
+    max-width: 600px;
+    background-size: cover;
+    margin-left: 50%; 
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+
+}
+
+#textoHeaderInferior{
+    margin-top: 700px;
+    margin-left: -110%;
+    text-align: center;
+}
+
+#cajaBoton{
+    margin-left: -150%;
+}
+
+
+h5{
+    font-size: 20px;   
+    color: #FF5733;}
+.h5blanco{
+    color: white;
+    font-size: 19px;}
+
+#fotoAquila{
+    margin-top:250px;
+    height: 500px; 
+    width: 100%;  
+    background-image: url(../img/header1Blanconegro.jpg);
+    max-height: 300px;
+    max-width: 400px;
+    background-size: cover;
+    margin-left:50%;
+    transform: translatex(-50%);
+}
+
+#general{
+    margin: 40px;
+    text-align: center;
+
+}
+aside{
+    float: right;
+}
+p{
+    color:grey;
+}
+h1 {
+    color: white;
+}
+h2 {
+    color: activeborder;
+}
+
+.caja{
+    width: 500px auto;
+    margin-left:50%;
+    transform: translatex(-50%);
+    color: grey;
+    text-align: inherit;
+    border: solid 1px grey;
+    border-style: groove;
+}
+
+.caja p{
+    color:#FF5733;
+}
+
+h4{
+    color:activeborder;
+}
+
+
+
+#imagenLinkedin{
+    height: 50px; 
+    width: 50px;  
+    background-image: url(../img/linkedink.png);
+    background-size: 100%;
+
+
+    margin-left:50%;
+    transform: translatex(-50%);
+
+}
+
+#imagenLinkedin p{
+  color:#FF5733;
+}
+
+#campoLinkedin{
+    margin-top: 75px;
+    margin-bottom: 100px;
+}
+
+

@@ -1,0 +1,127 @@
+
+
+
+
+h5{
+
+  font-size: 16px;   
+  color: grey;
+  }
+  
+  * {
+ 
+  padding: 0;
+  box-sizing: border-box;
+  }
+
+  .form-group{
+      
+  width: auto;
+  height: auto;
+  background-color: background;
+  margin: auto;
+  margin-top: 50px;
+  margin-right: auto;
+  box-shadow: 7px 13px 37px #000;
+  padding: 50px 50px;
+  border-top: 4px solid #000000ce;
+  border-block: 4px solid #000000ce;
+  border-left: 4px solid #000000ce;
+  border-right: 4px solid #000000ce;
+  color: white;
+  }
+  
+  .form-group h5 th {
+  margin: auto;
+  text-align: center;
+  height: auto;
+  margin-bottom: auto;
+  border-bottom: 1px solid;
+  font-size: 20px;
+  }
+  .form-control {
+  width: 100%;
+  border: 1px solid gray;
+  margin-bottom: auto;
+  padding: auto;
+  background:  white;
+  font-size: 16px;
+  font-weight: bold;
+  }
+  
+  #registrarInput{
+  width: 100%;
+  border: 2px solid #000000ce;
+  margin-bottom: auto;
+  padding: auto;
+  background:  white;
+  font-size: 16px;
+  font-weight: bold;
+  }
+    
+  button {
+  width: 100px;
+  height: 40px;
+  float: right;
+  background: #000000ce;
+  border: none;
+  color: white;
+  margin-bottom: 16px;
+  font-weight: bold;
+  }
+  
+  #botonRegistrar{
+      width:  250px;
+  }
+  .form-group p th {
+    height: auto;
+    text-align: center;
+    border-bottom: solid;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+  
+  .form-group a th {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    
+  }
+  .form-group a:hover {
+    text-decoration: underline;
+  }
+  
+ .controls{
+      margin-top: 210px;
+      circle-shadow: 7px 13px 37px #000;   
+  }
+  .pat{
+      margin-top: 820px;
+      circle-shadow: 7px 13px 37px #000;   
+  }
+  
+  h2 {
+    font-size: 10vmin;
+    position: absolute;
+    
+}
+h1 {
+    color: white;
+}
+.border {
+    color: black;  
+    text-shadow:
+       -1px -1px 0 rgb(230, 215, 53), 
+       1px -1px 0 rgb(230, 215, 53),
+       -1px 1px 0 rgb(230, 215, 53),
+       1px 1px 0 rgb(230, 215, 53); 
+    margin-left: 300px;
+    
+}
+
+.wave {
+    color: rgb(230, 215, 53);
+    animation: shift 3s ease-in-out infinite;
+      margin-left: 300px;
+}
+
