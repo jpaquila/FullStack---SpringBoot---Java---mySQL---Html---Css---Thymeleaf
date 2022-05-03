@@ -1,4 +1,4 @@
-Trabajo de muestra con tecnologías :
+Este es un Trabajo de muestra con las siguientes tecnologías :
 SpringMVC
 Java
 mySQL
@@ -8,4 +8,8 @@ Thymeleaf
 
 V.001
 
-Linkedin: https://www.linkedin.com/in/lic-juan-pablo-aquila-074b9614b/
+
+Mi Linkedin: https://www.linkedin.com/in/lic-juan-pablo-aquila-074b9614b/
+
+
+Juan Pablo Aquila
