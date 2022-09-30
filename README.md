@@ -12,15 +12,15 @@
 #### -Css
 #### -Thymeleaf
 
-##SCREENSHOTS (CAPTURAS DE PANTALLA)
+## CAPTURAS DE PANTALLA
 
-![image](https://github.com/jpaquila/FullStack---SpringBoot---Java---mySQL---Html---Css---Thymeleaf/SpringBoot(1).png)
-![image](https://github.com/jpaquila/FullStack---SpringBoot---Java---mySQL---Html---Css---Thymeleaf/SpringBoot(2).png)
-![image](https://github.com/jpaquila/FullStack---SpringBoot---Java---mySQL---Html---Css---Thymeleaf/SpringBoot(3).png)
-![image](https://github.com/jpaquila/FullStack---SpringBoot---Java---mySQL---Html---Css---Thymeleaf/SpringBoot(4).png)
-![image](https://github.com/jpaquila/FullStack---SpringBoot---Java---mySQL---Html---Css---Thymeleaf/SpringBoot(5).png)
-![image](https://github.com/jpaquila/FullStack---SpringBoot---Java---mySQL---Html---Css---Thymeleaf/SpringBoot(6).png)
-![image](https://github.com/jpaquila/FullStack---SpringBoot---Java---mySQL---Html---Css---Thymeleaf/SpringBoot(7).png)
+![image](https://github.com/jpaquila/FullStack---SpringBoot---Java---mySQL---Html---Css---Thymeleaf/blob/master/SpringBoot%20(1).png)
+![image](https://github.com/jpaquila/FullStack---SpringBoot---Java---mySQL---Html---Css---Thymeleaf/blob/master/SpringBoot%20(2).png)
+![image](https://github.com/jpaquila/FullStack---SpringBoot---Java---mySQL---Html---Css---Thymeleaf/blob/master/SpringBoot%20(3).png)
+![image](https://github.com/jpaquila/FullStack---SpringBoot---Java---mySQL---Html---Css---Thymeleaf/blob/master/SpringBoot%20(4).png)
+![image](https://github.com/jpaquila/FullStack---SpringBoot---Java---mySQL---Html---Css---Thymeleaf/blob/master/SpringBoot%20(5).png)
+![image](https://github.com/jpaquila/FullStack---SpringBoot---Java---mySQL---Html---Css---Thymeleaf/blob/master/SpringBoot%20(6).png)
+![image](https://github.com/jpaquila/FullStack---SpringBoot---Java---mySQL---Html---Css---Thymeleaf/blob/master/SpringBoot%20(7).png)
 
 
 
