@@ -1,6 +1,6 @@
 # Desarrollador: Juan Pablo Aquila
 
-#**VIDEO DE MUESTRA**https://youtu.be/3GKZnUuXg6A
+# VIDEO DE MUESTRA https://youtu.be/3GKZnUuXg6A
 
 ## Linkedin: https://www.linkedin.com/in/jpaquila/
 
